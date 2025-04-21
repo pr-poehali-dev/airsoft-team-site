@@ -100,10 +100,10 @@ const EventsPage = () => {
                   <CardHeader className="pb-2">
                     <CardTitle>{event.title}</CardTitle>
                     <CardDescription>
-                      <div className="flex items-center gap-1 mt-1">
+                      <span className="flex items-center gap-1 mt-1">
                         <Calendar size={14} />
                         <span>{event.date}</span>
-                      </div>
+                      </span>
                     </CardDescription>
                   </CardHeader>
                   <CardContent className="space-y-2 flex-grow">
