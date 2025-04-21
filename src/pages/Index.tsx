@@ -15,7 +15,7 @@ const Index = () => {
           <div className="container mx-auto px-4">
             <div className="max-w-2xl mx-auto text-center">
               <h1 className="text-4xl md:text-5xl font-bold mb-6 text-primary">
-                АирСтрайк
+                Jager Frettchen
               </h1>
               <p className="text-xl mb-8">
                 Профессиональная страйкбольная команда. 

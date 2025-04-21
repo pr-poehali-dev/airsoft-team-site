@@ -19,7 +19,7 @@ const Navbar = () => {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="flex items-center mb-4 md:mb-0">
             <img src="/logo-b.svg" alt="Логотип" className="h-10 w-10 mr-3" />
-            <h1 className="text-2xl font-bold text-primary">АирСтрайк</h1>
+            <h1 className="text-2xl font-bold text-primary">Jager Frettchen</h1>
           </div>
           
           <ul className="flex space-x-1 md:space-x-2 items-center">

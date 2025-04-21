@@ -102,7 +102,7 @@ const EquipmentPage = () => {
       <main className="flex-grow py-10">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto mb-12 text-center">
-            <h1 className="text-4xl font-bold mb-4 text-primary">Снаряжение</h1>
+            <h1 className="text-4xl font-bold mb-4 text-primary">Снаряжение Jager Frettchen</h1>
             <p className="text-lg text-muted-foreground">
               Рекомендации по выбору страйкбольного снаряжения от опытных игроков нашей команды.
             </p>

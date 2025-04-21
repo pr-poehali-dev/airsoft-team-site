@@ -57,7 +57,7 @@ const TeamPage = () => {
       <main className="flex-grow py-10">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto mb-12 text-center">
-            <h1 className="text-4xl font-bold mb-4 text-primary">Наша команда</h1>
+            <h1 className="text-4xl font-bold mb-4 text-primary">Наша команда Jager Frettchen</h1>
             <p className="text-lg text-muted-foreground">
               Познакомьтесь с нашими игроками — опытными страйкболистами, объединенными любовью к тактическим играм 
               и командной работе.
@@ -89,7 +89,7 @@ const TeamPage = () => {
           <div className="mt-16 max-w-3xl mx-auto text-center">
             <h2 className="text-2xl font-bold mb-4">История команды</h2>
             <p className="mb-4">
-              Команда "АирСтрайк" была основана в 2023 году группой энтузиастов страйкбола, 
+              Команда "Jager Frettchen" была основана в 2023 году группой энтузиастов страйкбола, 
               которые хотели создать не просто игровой коллектив, а настоящее боевое братство.
             </p>
             <p className="mb-4">
